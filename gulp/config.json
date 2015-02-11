@@ -1,0 +1,13 @@
+{
+	"project" : "wawf",
+	"platform": "wp",
+	"javascript" : [
+		"./src/js/wawf.global.js",
+		"./src/js/wawf.carousel.js",
+		"./src/js/wawf.backbone.js",
+		"./src/js/navigation.js",
+		"./src/js/timeline-carousels.js",
+		"./src/js/skip-link-focus-fix.js",
+		"./src/js/jetpack.sharing.js"
+	]
+}
